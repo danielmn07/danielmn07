@@ -50,25 +50,9 @@ I learn by building practical projects, collaborating with others, and using tec
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -80,8 +64,6 @@ Contributing to the development of the HerRise Ethiopia platform as part of the 
 
 **Focus:** React · Vite · Frontend Development · Team Collaboration
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/herrise-ethiopia)
-
 ---
 
 ### 🏠 House Price Prediction
@@ -89,8 +71,6 @@ Contributing to the development of the HerRise Ethiopia platform as part of the 
 A machine learning project built while exploring linear regression and practical machine learning workflows.
 
 **Focus:** Python · Machine Learning · Linear Regression · Google Colab
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR-HOUSE-PRICE-REPO)
 
 ---
 
