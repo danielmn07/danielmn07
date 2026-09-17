@@ -54,7 +54,6 @@ I learn by building practical projects, collaborating with others, and using tec
 
 ---
 
----
 
 ## 🔨 Featured Projects
 
