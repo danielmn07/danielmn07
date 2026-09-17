@@ -84,23 +84,10 @@ A machine learning project built while exploring linear regression and practical
 
 ---
 
-## 🌱 My Approach
+## 📫 Contact
 
-### Learn → Build → Collaborate → Improve
-
-I believe technology is most meaningful when it is used to solve real problems and create opportunities for others.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on interesting technology projects, learning from other developers, and building useful things.
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
 
 ---
 
